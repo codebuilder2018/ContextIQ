@@ -401,7 +401,7 @@ For a fresh checkout of this repository:
 
 ```cmd
 git clone <repository-url>
-cd rag-demo
+cd ContextIQ
 uv venv
 .venv\Scripts\activate
 uv add -r requirements.txt
